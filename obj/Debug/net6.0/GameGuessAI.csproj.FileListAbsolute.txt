@@ -1,0 +1,15 @@
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\bin\Debug\net6.0\GameGuessAI.exe
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\bin\Debug\net6.0\GameGuessAI.deps.json
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\bin\Debug\net6.0\GameGuessAI.runtimeconfig.json
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\bin\Debug\net6.0\GameGuessAI.dll
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\bin\Debug\net6.0\GameGuessAI.pdb
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\GameGuessAI.csproj.AssemblyReference.cache
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\GameGuessAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\GameGuessAI.AssemblyInfoInputs.cache
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\GameGuessAI.AssemblyInfo.cs
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\GameGuessAI.csproj.CoreCompileInputs.cache
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\GameGuessAI.dll
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\refint\GameGuessAI.dll
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\GameGuessAI.pdb
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\GameGuessAI.genruntimeconfig.cache
+C:\Software_Projects\Csharp_Projects\Ders\GameGuessAI\obj\Debug\net6.0\ref\GameGuessAI.dll
